@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment files
+.env
+
+# Build output
+dist/
+
+# Optional npm cache directory
+.npm/
+
+# Miscellaneous
+.DS_Store
+
+# Coverage reports
+coverage/
+
+# Docker containers volumes directory (if used for PostgreSQL data)
+postgres/
+
+# Ignore local IDE config files
+.vscode/
+
+# Temporary files
+tmp/
