@@ -14,8 +14,8 @@ Ejercicio para la maestria.Este proyecto utiliza Node.js junto con Sequelize par
 
   Abre una terminal y clona el repositorio:
   ```
-  git clone mi repositorio
-  cd proyecto
+  git clone https://github.com/Sergio-Al/mod1-node-sequelize.git
+  cd mod1-node-sequelize
   ```
 
 2. **Instalar dependencias de Node.js**
